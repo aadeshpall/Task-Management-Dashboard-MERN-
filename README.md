@@ -1,4 +1,5 @@
 <h1 align="center">Task Management Dashboard</h1>
+Task Management Dashboard in MERN Stack for college project
 
 
 ## :bookmark_tabs:Table of contents
