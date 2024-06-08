@@ -1,6 +1,3 @@
-# Task-Management-Dashboard-MERN-
-Task Management Dashboard in MERN Stack for college project
-
 <h1 align="center">Task Management Dashboard</h1>
 
 
